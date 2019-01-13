@@ -1,0 +1,10 @@
+#Code Book
+#This code book summarizes the resulting data fields in"finalSet.txt"
++## Identifiers
+ +
+ +* `subId` - The ID of the test subject
+ +* `activId` - The type of activity performed when the corresponding measurements were taken
+ +* 'Mean_STD' Mean of activity
+ +* 'Activtype' Activity Type
+ 
+ Tidy finalSet(tidy Data)contains 180 rows and 82 columns.
