@@ -9,9 +9,9 @@
 
 #Reading activity labels data
 
-# Column Values for the Train table
+#Column Values for the Train table
 
-#C column values for the test table
+#column values for the test table
 
 #colmn value for the activity labels 
 
@@ -19,8 +19,8 @@
 
 #merge All data
 
-# subset mean and standards 
+#subset mean and standards 
 
-# final set 
+#final set 
 
-# write the ouput to a text file 
+#write the ouput to a text file 
